@@ -36,8 +36,6 @@ Why Use Git?
 - Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
 - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
 - History: see who changed what and when — perfect for debugging.
----
-|
 
 # Summary. An optional shortened abstract.
 summary: |
@@ -60,8 +58,6 @@ Why Use Git?
 - Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
 - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
 - History: see who changed what and when — perfect for debugging.
----
-|
 
 tags:
 - Interesting  themes
