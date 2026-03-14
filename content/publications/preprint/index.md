@@ -16,48 +16,47 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract:
----
-Version Control with Git: Keep Your Code in Check! 
-Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 
-What is Git? 
-Git is a version control system that lets you:
-- track changes in your source code;
-- revert to previous versions if something goes wrong;
-- work seamlessly with a team, merging code without conflicts. 
-Key Git Actions:
-1. Initialize a repo: git init — creates a new Git repository.
-2. Add files: git add . — stages all changes for commit.
-3. Commit changes: git commit -m "Descriptive message" — saves changes with a note.
-4. Check status: git status — shows which files are changed.
-5. View history: git log — displays all previous commits. 
-Why Use Git?
-- Safety: never lose code — always have a backup.
-- Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
-- Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
-- History: see who changed what and when — perfect for debugging.
+abstract: |
+  Version Control with Git: Keep Your Code in Check! 
+  Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 
+  What is Git? 
+  Git is a version control system that lets you:
+  - track changes in your source code;
+  - revert to previous versions if something goes wrong;
+  - work seamlessly with a team, merging code without conflicts. 
+  Key Git Actions:
+  1. Initialize a repo: git init — creates a new Git repository.
+  2. Add files: git add . — stages all changes for commit.
+  3. Commit changes: git commit -m "Descriptive message" — saves changes with a note.
+  4. Check status: git status — shows which files are changed.
+  5. View history: git log — displays all previous commits. 
+  Why Use Git?
+  - Safety: never lose code — always have a backup.
+  - Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
+  - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
+  - History: see who changed what and when — perfect for debugging.
+
 
 # Summary. An optional shortened abstract.
-summary:
----
-Version Control with Git: Keep Your Code in Check! 
-Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 
-What is Git? 
-Git is a version control system that lets you:
-- track changes in your source code;
-- revert to previous versions if something goes wrong;
-- work seamlessly with a team, merging code without conflicts. 
-Key Git Actions:
-1. Initialize a repo: git init — creates a new Git repository.
-2. Add files: git add . — stages all changes for commit.
-3. Commit changes: git commit -m "Descriptive message" — saves changes with a note.
-4. Check status: git status — shows which files are changed.
-5. View history: git log — displays all previous commits. 
-Why Use Git?
-- Safety: never lose code — always have a backup.
-- Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
-- Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
-- History: see who changed what and when — perfect for debugging.
+summary: |
+  Version Control with Git: Keep Your Code in Check! 
+  Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 
+  What is Git? 
+  Git is a version control system that lets you:
+  - track changes in your source code;
+  - revert to previous versions if something goes wrong;
+  - work seamlessly with a team, merging code without conflicts. 
+  Key Git Actions:
+  1. Initialize a repo: git init — creates a new Git repository.
+  2. Add files: git add . — stages all changes for commit.
+  3. Commit changes: git commit -m "Descriptive message" — saves changes with a note.
+  4. Check status: git status — shows which files are changed.
+  5. View history: git log — displays all previous commits. 
+  Why Use Git?
+  - Safety: never lose code — always have a backup.
+  - Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
+  - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
+  - History: see who changed what and when — perfect for debugging.
 
 tags:
 - Interesting  themes
