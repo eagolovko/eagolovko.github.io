@@ -33,10 +33,6 @@ Why Use Git?
  - Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
  - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
  - History: see who changed what and when — perfect for debugging.
-Pro Tip: Use descriptive commit messages — they make code history readable! 
-Start using Git today and take control of your projects! 
-
-
 
 # Summary. An optional shortened abstract.
 summary:Version Control with Git: Keep Your Code in Check! 
@@ -56,9 +52,6 @@ Why Use Git?
  - Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
  - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
  - History: see who changed what and when — perfect for debugging.
-Pro Tip: Use descriptive commit messages — they make code history readable! 
-Start using Git today and take control of your projects! 
-
 
 tags:
 - Interesting  themes
