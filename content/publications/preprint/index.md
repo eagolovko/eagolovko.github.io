@@ -1,11 +1,11 @@
 ---
-title: "An example preprint / working paper"
+title: "Version control with Git"
 authors:
 - me
-date: "2019-04-07T00:00:00Z"
+date: "2026-03-13T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-03-13T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,14 +16,53 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Version Control with Git: Keep Your Code in Check! 🚀
+Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 🛠️
+What is Git? Git is a version control system that lets you:
+·	track changes in your source code;
+·	revert to previous versions if something goes wrong;
+·	work seamlessly with a team, merging code without conflicts.
+Key Git Actions:
+1.	Initialize a repo: git init — creates a new Git repository.
+2.	Add files: git add . — stages all changes for commit.
+3.	Commit changes: git commit -m "Descriptive message" — saves changes with a note.
+4.	Check status: git status — shows which files are changed.
+5.	View history: git log — displays all previous commits.
+Why Use Git?
+·	Safety: never lose code — always have a backup.
+·	Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
+·	Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
+·	History: see who changed what and when — perfect for debugging.
+Pro Tip: Use descriptive commit messages — they make code history readable! 📝
+Start using Git today and take control of your projects! 
+
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Version Control with Git: Keep Your Code in Check! 🚀
+Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 🛠️
+What is Git? Git is a version control system that lets you:
+·	track changes in your source code;
+·	revert to previous versions if something goes wrong;
+·	work seamlessly with a team, merging code without conflicts.
+Key Git Actions:
+1.	Initialize a repo: git init — creates a new Git repository.
+2.	Add files: git add . — stages all changes for commit.
+3.	Commit changes: git commit -m "Descriptive message" — saves changes with a note.
+4.	Check status: git status — shows which files are changed.
+5.	View history: git log — displays all previous commits.
+Why Use Git?
+·	Safety: never lose code — always have a backup.
+·	Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
+·	Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
+·	History: see who changed what and when — perfect for debugging.
+Pro Tip: Use descriptive commit messages — they make code history readable! 📝
+Start using Git today and take control of your projects! 
+
+
 
 tags:
-- Large Language Models
-
+- Interesting  themes
 featured: true
 
 hugoblox:
@@ -31,7 +70,7 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
+- type: Git
   provider: arxiv
   id: 1512.04133v1
 - type: code
@@ -73,9 +112,3 @@ projects:
 slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
