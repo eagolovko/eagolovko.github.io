@@ -37,9 +37,10 @@ Why Use Git?
 - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
 - History: see who changed what and when — perfect for debugging.
 ---
+|
 
 # Summary. An optional shortened abstract.
-summary:|
+summary: |
 ---
 Version Control with Git: Keep Your Code in Check! 
 Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 
@@ -60,6 +61,8 @@ Why Use Git?
 - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
 - History: see who changed what and when — perfect for debugging.
 ---
+|
+
 tags:
 - Interesting  themes
 featured: true
