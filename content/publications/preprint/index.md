@@ -16,7 +16,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract:Version Control with Git: Keep Your Code in Check! 
+abstract:"Version Control with Git: Keep Your Code in Check! 
 Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 
 What is Git? Git is a version control system that lets you:
  - track changes in your source code;
@@ -32,10 +32,10 @@ Why Use Git?
  - Safety: never lose code — always have a backup.
  - Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
  - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
- - History: see who changed what and when — perfect for debugging.
+ - History: see who changed what and when — perfect for debugging."
 
 # Summary. An optional shortened abstract.
-summary:Version Control with Git: Keep Your Code in Check! 
+summary:"Version Control with Git: Keep Your Code in Check! 
 Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 
 What is Git? Git is a version control system that lets you:
  - track changes in your source code;
@@ -51,7 +51,7 @@ Why Use Git?
  - Safety: never lose code — always have a backup.
  - Collaboration: easy sync with teammates via platforms like GitHub, GitLab.
  - Experimentation: create branches to test ideas without affecting the main code (git branch new-feature).
- - History: see who changed what and when — perfect for debugging.
+ - History: see who changed what and when — perfect for debugging."
 
 tags:
 - Interesting  themes
