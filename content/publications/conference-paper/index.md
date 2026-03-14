@@ -13,10 +13,10 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2026-03-14T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2026-03-14T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,13 +27,13 @@ publication_types: ['paper-conference']
 publication: In *HugoBlox Kit Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Last week, I attended five lectures on physics, mathematics, and biology, expanding my understanding of fundamental scientific concepts. I spent several hours in the lab conducting basic chemistry experiments under the supervision of my professor. On Tuesday, I worked on a group project about climate change with my classmates — we analysed data and created a presentation. I reviewed my notes from the previous week to prepare for the mid-term quiz in organic chemistry. On Thursday, I participated in a guest lecture by a renowned scientist who shared insights into cutting-edge research in genetics. I dedicated two evenings to solving complex calculus problems, which significantly improved my problem-solving skills. I visited the university library to find additional resources for my biology assignment, focusing on cellular processes. On Friday, I had a one-on-one discussion with my academic advisor about potential research opportunities in the department. I used online databases like PubMed and Google Scholar to gather scientific articles for my literature review. By the end of the week, I felt more confident in my ability to balance coursework, lab work, and independent study in science.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Last week, I attended five lectures on physics, mathematics, and biology, expanding my understanding of fundamental scientific concepts. I spent several hours in the lab conducting basic chemistry experiments under the supervision of my professor. On Tuesday, I worked on a group project about climate change with my classmates — we analysed data and created a presentation. I reviewed my notes from the previous week to prepare for the mid-term quiz in organic chemistry. On Thursday, I participated in a guest lecture by a renowned scientist who shared insights into cutting-edge research in genetics. I dedicated two evenings to solving complex calculus problems, which significantly improved my problem-solving skills. I visited the university library to find additional resources for my biology assignment, focusing on cellular processes. On Friday, I had a one-on-one discussion with my academic advisor about potential research opportunities in the department. I used online databases like PubMed and Google Scholar to gather scientific articles for my literature review. By the end of the week, I felt more confident in my ability to balance coursework, lab work, and independent study in science.
 
 tags:
-  - Large Language Models
+  - Last Week
 
 # Display this page in the Featured widget?
 featured: true
@@ -61,7 +61,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: https://unsplash.com/illustrations/woman-with-blue-clouds-over-head-at-desk-WgsOXi9QqUY)'
   focal_point: ''
   preview_only: false
 
