@@ -16,7 +16,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: |
+abstract:
 ---
 Version Control with Git: Keep Your Code in Check! 
 Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 
@@ -38,7 +38,7 @@ Why Use Git?
 - History: see who changed what and when — perfect for debugging.
 
 # Summary. An optional shortened abstract.
-summary: |
+summary:
 ---
 Version Control with Git: Keep Your Code in Check! 
 Managing code changes can be chaotic — especially in team projects. That’s where Git comes in! 
