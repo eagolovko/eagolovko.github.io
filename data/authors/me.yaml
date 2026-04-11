@@ -27,7 +27,7 @@ links:
     url: mailto:1032252356@pfur.ru
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/eagoovko
+    url: https://x.com/eagolovko
   - icon: brands/github
     url: https://github.com/eagolovko
   - icon: brands/linkedin
@@ -44,6 +44,12 @@ interests:
   - Business Processes
 
 education:
+  - degree: student
+    institution: School №1
+    start: 2014-09-01
+    end: 2025-06-30
+    summary: |
+    
   - degree: Business Analist
     institution: RUDN
     start: 2025-09-01
@@ -51,29 +57,26 @@ education:
     summary: |
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Junior Analyst
+    org: University Startup Club 
+    start: 2026-02-10
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Assisted in Nlyzing survey data for a market research project. Used Excel and Python to clean data and create visualizations.
+
+  - role: Participant? Hackathon "Digital Business 2026"
+    org: Moscow State University
+    start: 2025-11-13
+    end: 2025-11-16
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Developed a prototype for a chatbot-based customer support system using GPT-4 API.
 
 skills:
   - name: Technical Skills
     items:
       - label: Python
-        level: 5
+        level: 4
       - label: Machine Learning
-        level: 5
+        level: 3
       - label: Cloud Computing
         level: 4
   - name: Research & Communication
@@ -82,20 +85,27 @@ skills:
         level: 5
       - label: Conference Presentations
         level: 4
-      - label: Grant Proposals
-        level: 4
 
 languages:
+  - name: Russian
+    level: 5
+    label: Native
   - name: English
     level: 5
     label: Native
   - name: Spanish
-    level: 4
-    label: Fluent
+    level: 3
+    label: Spoken
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Winner of the final stage of the All-Russian Olympiad of Schoolchildren in Technology (profile "Home culture and Decorative and Applied Arts")
+    awarder: Ministry of Education of the Russian Federation
+    date: "2024-04-22"
+    summary: Presented a project on a collection of clothing about St. Petersburg
+    icon: hero/trophy
+    
+  - title: Winner of the final stage of the All-Russian Olympiad of Schoolchildren in Technology (profile "Home culture and Decorative and Applied Arts")
+    awarder: Ministry of Education of the Russian Federation
+    date: "2025-04-20"
+    summary: Presented a project on a collection of clothing about space
     icon: hero/trophy
