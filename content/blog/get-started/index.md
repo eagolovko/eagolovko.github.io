@@ -1,5 +1,5 @@
 ---
-title: 🎉 Markdown: what's it?
+title: Markdown: what's it?
 summary: We need to tell you some information about this language.
 date: 2023-10-27
 
